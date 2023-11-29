@@ -8,4 +8,4 @@ Emulator for PDC32, a super cool post-apocalyptic computer built from scratch us
 - [Various videos](https://www.youtube.com/@robertogudino1919)
 - [Forum posts](https://www.forosdeelectronica.com/threads/mini-pc-desarrollada-en-l%C3%B3gica-discreta.162081/)
 - [Schematics](https://www.forosdeelectronica.com/threads/mini-pc-desarrollada-en-l%C3%B3gica-discreta.162081/page-4#post-1363449)
-- His own design doc
+- [His own design doc](./docs/PDC32_g.pdf)
